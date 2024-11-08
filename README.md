@@ -1,3 +1,5 @@
+<h3>&nbsp;Portfolio:&nbsp; https://wieru.github.io/portfolio-website</h3>
+
 <h3> 🛠 &nbsp;Technologies</h3>
 
 - 🌐 &nbsp;Frontend:&nbsp;
@@ -14,7 +16,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- &nbsp;Portfolio:&nbsp; https://wieru.github.io/portfolio-website
   <br/>
 
 
