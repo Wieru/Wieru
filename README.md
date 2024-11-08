@@ -16,4 +16,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   <br/>
 
-  Portfolio - https://wieru.github.io/portfolio-website
+  - &nbsp;Portfolio:&nbsp; - https://wieru.github.io/portfolio-website
